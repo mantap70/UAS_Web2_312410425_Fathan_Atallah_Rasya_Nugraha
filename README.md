@@ -233,4 +233,4 @@ Password : password
 | | Link |
 |---|---|
 | **Live Demo** | https://elibrary-api.fwh.is |
-| **Video Presentasi** | https://youtu.be/[ID_VIDEO_YOUTUBE] |
+| **Video Presentasi** | https://youtu.be/NO1sAn4qB30?si=wOq4slg9oa4j9dU0 |
